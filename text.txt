@@ -1,0 +1,1 @@
+Clustering algorithms examine the data to find groups of instances that are similar!!! Unlik clasification the focus is not on some response variable but on the instanc as ad whole.
